@@ -1,0 +1,21 @@
+{
+  "mcpServers": {
+    "drawio": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "drawio-mcp-server"
+      ]
+    },
+    "excalidraw": {
+      "command": "node",
+      "args": [
+        "/home/cszv/Documents/1-2026 UCB-LIA/[1-2026] [SIS-111] intro to programming (2)/assignments/(1) flowcharts/.gemini/excalidraw-mcp-app/dist/index.js",
+        "--stdio"
+      ]
+    }
+  },
+  "context": {
+    "fileName": "AGENTS.md"
+  }
+}

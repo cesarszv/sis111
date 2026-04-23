@@ -1,0 +1,78 @@
+# Diagramas De Flujo (flowcharts)
+53 ejercicios del practico que asigno el docente __Kevin Ronald Lopez Orellana__
+ 
+---
+
+# Realizar Diagramas de Flujo
+
+- [ ] 1. Leer N números y mostrar el promedio de los múltiplos de 4 y la suma de los múltiplos de 5.
+- [ ] 2. Mostrar los números pares de forma decreciente del 4000 al 100.
+- [ ] 3. Leer N números y mostrar el promedio de los números múltiplos de 4 y 7.
+- [ ] 4. Mostrar la suma y el promedio de los números impares introducidos por teclado.
+- [ ] 5. Leer N números por teclado y mostrar los números impares que se encuentran entre 150 y 550.
+- [ ] 6. Introducir N números y mostrar los porcentajes de positivos y negativos.
+- [ ] 7. De un conjunto de números mostrar el promedio de los pares y el promedio de los impares.
+- [ ] 8. De un conjunto de números mostrar la cantidad de múltiplos de 4, la cantidad de múltiplos de 7 y la cantidad de múltiplos de 3 y 5.
+- [ ] 9. Introducir N números por teclado y mostrar aquellos que llegan de forma descendente.
+- [ ] 10. Leer N números por teclado y mostrar el número mayor y el número menor.
+- [ ] 11. Dado un número introducido por teclado muestre por pantalla a qué día de la semana corresponde dicho número (ejemplo: 2 → "Martes").
+- [ ] 12. Resolver el área de una circunferencia.
+- [ ] 13. Calcular la diferencia entre 2 puntos.
+- [ ] 14. Obtener el valor absoluto de un número.
+- [ ] 15. Una persona solo sabe sumar dos números y dividir 2 números. Escribir los pasos que se deben seguir para que esta persona calcule el promedio entre los números 9, 4, 12.
+- [ ] 16. Modificar el anterior ejercicio para calcular el promedio de 3 números cualesquiera.
+- [ ] 17. Calcular la velocidad promedio que emplea un corredor de maratón en su carrera. Los datos del tiempo empleado, expresado en minutos, se introducen desde el teclado y el resultado se visualiza en pantalla en kilómetros por hora.
+- [ ] 18. Convertir una temperatura expresada en grados Celsius a grados Fahrenheit. La fórmula de conversión es F = 9/5 + 32.
+- [ ] 19. Determinar el área y el volumen de un cilindro cuyas dimensiones se leen por teclado.
+- [ ] 20. Determinar si un número es múltiplo de 6 y 9 a la vez.
+- [ ] 21. Intercambiar dos variables a y b en caso de que a sea mayor a b.
+- [ ] 22. Determinar el mayor de tres números.
+- [ ] 23. Imprimir el mes del año en caso de que su número corresponda al mes y decir cuántos días tiene cada mes. Ejemplo: 1 = Enero y tiene 31 días. Caso contrario, si está fuera del rango de 1 a 12, imprimir un mensaje de error.
+- [ ] 24. Calcular el salario de un empleado si se sabe que para los de turno diurno la tarifa en el caso de horas normales de trabajo es de 1.3 y en el caso de horas extras es de 2.1. Si el empleado es de turno nocturno, la tarifa para horas normales es de 1.8 y para horas extras es de 2.5.
+- [ ] 25. Determinar si un carácter tecleado por el usuario es un dígito, una mayúscula, una minúscula o un carácter especial.
+- [ ] 26. Determinar el mayor entre 4 números.
+- [ ] 27. Hacer un programa que permita determinar la cantidad de días que tiene cada mes, si el usuario selecciona el mes.
+- [ ] 28. Calcular el mínimo común divisor de 2 números.
+- [ ] 29. A un trabajador le pagan según sus horas y una tarifa de pago por hora. Si la cantidad de horas trabajadas es mayor a 40 horas, la tarifa se incrementa en un 50% para las horas extras. Calcular el salario del trabajador dadas las horas trabajadas y la tarifa.
+- [ ] 30. A un trabajador le descuentan de su sueldo:
+    - [ ] el 10% si su sueldo es menor o igual a 1000,
+    - [ ] por encima de 1000 y hasta 2000 el 5% del adicional,
+    - [ ] y por encima de 2000 el 3% del adicional.
+    Calcular el descuento y el sueldo neto que recibe el trabajador dado su sueldo.
+- [ ] 31. Dado un monto, calcular el descuento considerando que por encima de 100 el descuento es el 10% y por debajo de 100 el descuento es el 2%.
+- [ ] 32. Dado un tiempo en segundos, calcular los segundos restantes que le correspondan para convertirse exactamente en minutos.
+- [ ] 33. Dado un tiempo en minutos, calcular los días, horas y minutos que le corresponden.
+- [ ] 34. Calcular mediante un algoritmo repetitivo la suma de los N primeros números naturales.
+- [ ] 35. Dado N notas de un estudiante, calcular:
+    - [ ] a) Cuántas notas tiene reprobadas.
+    - [ ] b) Cuántas aprobadas.
+    - [ ] c) El promedio de notas.
+    - [ ] d) El promedio de notas aprobadas y reprobadas.
+- [ ] 36. Se trata de escribir el algoritmo que permita emitir la factura correspondiente a una compra de un artículo determinado, del que se adquieren una o varias unidades. El IVA es del 15% y si el precio bruto (precio de venta más IVA) es mayor a 500 Bs., se debe realizar un descuento del 5%.
+- [ ] 37. Realizar un algoritmo que permita pedir 50 números naturales y determine e imprima cuántos son pares, impares, positivos y negativos.
+- [ ] 38. Calcular la media de 100 números e imprimir su resultado.
+- [ ] 39. Calcular y visualizar la suma y el producto de los números pares comprendidos entre 20 y 400, ambos inclusive.
+- [ ] 40. Hacer un programa que determine un número si tiene o no parte fraccionaria.
+- [ ] 41. Una empresa de comercialización de productos necesita saber cuánto tiene invertido en su almacén. Para procesar, se tiene que registrar los productos, cantidad y costo de la compra, y calcular el total invertido. También quiere saber su ganancia si incrementa el 15% a los productos o, si el incremento fuera del 20%, cuál sería su ganancia.
+- [ ] 42. Hacer un programa que permita calcular la cuenta a pagar en un restaurant si el usuario escoge lo que desea comer y selecciona la cantidad, donde hay 4 opciones (nota: se listan 5):
+    - [ ] Sopa (5 Bs)
+    - [ ] Entrada (2 Bs)
+    - [ ] Segundo (8 Bs)
+    - [ ] Postre (3 Bs)
+    - [ ] Refrescos (10 Bs)
+- [ ] 43. Hacer un programa que permita calcular the peso promedio de una persona. Si el usuario selecciona el sexo e introduce el peso, calcular con cuánto está excedido de peso si lo normal para sexo masculino es 90 kg y para sexo femenino lo normal es 75 kg.
+- [ ] 44. Hacer un programa para introducir 3 números por teclado y mostrar el número mayor o si son iguales.
+- [ ] 45. Diseñar un algoritmo que calcule el área de un conjunto de círculos. El radio de cada círculo en centímetros se leerá por teclado y la entrada de datos finalizará cuando el usuario teclee un cero. El algoritmo deberá mostrar la siguiente información por pantalla:
+    - [ ] a) El área mayor calculada
+    - [ ] b) El área menor
+    - [ ] c) El promedio de las áreas de todos los círculos
+- [ ] 46. Hacer un programa que permita determinar la cantidad de días que tiene cada mes, si el usuario selecciona el mes.
+- [ ] 47. Leer un número, elevar el número al cuadrado y al cubo, e imprimir el número junto con su cuadrado y su cubo.
+- [ ] 48. Hacer un programa que permita determinar si un número introducido por el usuario es primo, sabiendo que un número es primo si solo es divisible por sí mismo y por la unidad.
+- [ ] 49. Hacer un programa que permita, escogiendo el día de la semana, calcular el monto a pagar por día trabajado si el usuario introduce la cantidad de horas trabajadas al día:
+    - [ ] De lunes a viernes se cancela 10 Bs la hora
+    - [ ] Sábados y domingos se cancela el 50% por encima de la tarifa
+- [ ] 50. Se desea obtener el salario neto de un trabajador conociendo el número de horas trabajadas y el salario por hora, y calcular el descuento del 12.5% de aporte a la AFP.
+- [ ] 51. Hallar el cubo de un número x y mostrar su resultado.
+- [ ] 52. Dada la longitud de un triángulo mediante las variables a, b, c, calcular su área mediante la fórmula: Área = √(s(s - a)(s - b)(s - c)) donde: s = (a + b + c) / 2
+- [ ] 53. Intercambiar el dígito mayor con el menor de un número.
